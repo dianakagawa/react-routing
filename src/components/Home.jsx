@@ -1,5 +1,3 @@
-// crear una funcion que muestre un encabezado generico de bienvenida
-
 import React from "react";
 
 function Home() {

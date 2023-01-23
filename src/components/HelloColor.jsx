@@ -1,5 +1,3 @@
-// create a function that returns a world sent by url with a color an a background color sent by url
-
 import React from "react";
 import {useParams} from "react-router-dom";
 

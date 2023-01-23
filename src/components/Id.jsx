@@ -1,5 +1,3 @@
-//  crear una funcion que muestre un mensaje si se envia un numero por url y muestre otro mensaje si se envia una palabra por url
-
 import React from "react";
 import {useParams} from "react-router-dom";
 

@@ -1,5 +1,3 @@
-// crear una aplicacion con react router que pueda manejar las siguientes rutas: /home, /4 o cualquier numero que se haya enviado, /hello o cualquier palabra que se haya enviado, /hello/blue/red deberia mostrar la palabra hello en azul con un fondo rojo
-
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./components/Home";
 import Id from "./components/Id";
